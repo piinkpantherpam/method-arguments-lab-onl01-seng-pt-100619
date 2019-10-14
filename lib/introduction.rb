@@ -3,3 +3,6 @@ def say_caio_x_times(x)
               puts "Caio"
   end
 end
+
+def say_caio_x_times
+end
