@@ -1,4 +1,4 @@
-def say_caio_x_times(x)
+def introduction("x")
   x.times do
               puts "Caio"
   end
